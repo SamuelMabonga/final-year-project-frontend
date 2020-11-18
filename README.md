@@ -3,7 +3,7 @@
 
 ## Quick start
 
-- [Download from Github](https://github.com/SamuelMabonga/final-year-project-frontend/master.zip) or clone the repo: `git clone https://github.com/devias-io/react-material-dashboard.git`
+- [Download from Github](https://github.com/SamuelMabonga/final-year-project-frontend.git) or clone the repo: `git clone https://github.com/SamuelMabonga/final-year-project-frontend.git`
 
 - Make sure your NodeJS and npm versions are up to date for `React 16.8.6`
 
